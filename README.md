@@ -1,10 +1,10 @@
 # PHPNativeKombinasi
 
-## 📥 Cara Menggunakan
+## Cara Menggunakan
 
 Jalankan file `TestProgramPHPNative.php` di server lokal seperti XAMPP
 
-## 📌 Catatan
+## Catatan
 
 Silakan buka branch `master` untuk melihat kode utamanya (`TestProgramPHPNative.php`).  
 Branch `main` ini hanya menyimpan dokumentasi (`README.md`).
